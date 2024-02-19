@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    height: 50px;
+    width: auto;
+}
+
+.nav-li{
+    margin-left: 300px;
+}
+
+.nav-item{
+    font-size: small;
+}
+
+.bgimg{
+    background-image: url(./asset/banner_bg.png);
+    height: 500px;
+    width: 100%;
+}
+
+.main-img{
+    height: 100px;
+    width: 400px;
+}
+.search{
+    height: 50px;
+    width: 600px;
+}
